@@ -1,0 +1,19 @@
+/*Estilos del botón*/
+.button-one-click{    
+    color: red;
+    margin: 8px;
+}
+
+.button-two-click{
+    display: block;
+    margin: auto;
+}
+
+
+/*Estilos del contenedor*/
+.container-button-one{
+    text-align: center;
+}
+
+.container-button-two{}
+
